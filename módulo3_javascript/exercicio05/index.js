@@ -24,4 +24,7 @@ do{
             break
         
     }
-}while(opcao!=5)
+}
+while(opcao!=5){
+    
+}

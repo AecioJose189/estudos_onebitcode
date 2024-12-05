@@ -1,0 +1,5 @@
+nomeMonstro = input("Digite o nome do monstro: ")
+tipoMonstro = input("Digite o tipo do monstro: 1-[Dragão] 2-[Goblin] 3-[Zumbi] ")
+nivelMonstro = int(input("Digite o nível de força do monstro (1 a 100): "))
+habEspecial = input("Digite a habilidade especial do monstro: ")
+print(f"O monstro {nomeMonstro} é um {tipoMonstro} nível {nivelMonstro} e possui habilidade especial: {habEspecial}")
